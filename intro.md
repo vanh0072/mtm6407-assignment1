@@ -5,4 +5,4 @@ You’re on a journey to find the ***Elixir of Immortality***. You find yourself
 1. [Follow the path along the Duck River](link)
 2. [Take the trail toward the Mysterious Cave](path2-cave.md)
 3. [Walk through the Rainbow Meadow](link)
-4. [Journey to the Evil Castle](link)
+4. [Journey to the Evil Castle](path4-evilcastle.md)
